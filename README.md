@@ -1,5 +1,15 @@
-## Hi there 👋
+## 👋🏽 Hi, I'm Katelyn!
 
+I'm working toward becoming a **SOC Analyst**, building my foundation one layer at a time.
+
+
+🥇 **Certifications:** CompTIA Security+ ✅
+
+📌 **Next up:** CompTIA Network+, strengthening the networking foundation behind what I learned in Security+
+
+👩🏽‍💻 **Currently working on:** IT fundamentals and networking
+
+🧠 **Currently learning:** TCP/IP, DNS, DHCP, subnetting, and how to read packet captures
 <!--
 **cyber-kate/cyber-kate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
